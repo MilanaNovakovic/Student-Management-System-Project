@@ -71,7 +71,6 @@ void Student::main(){
 void Student::insert(){
     system("cls");
     cout<<"Insert info\n";
-    //index, name, course, address, email, phone;
     cout<<"Index: ";
     cin>>index;
     cout<<"Name: ";
